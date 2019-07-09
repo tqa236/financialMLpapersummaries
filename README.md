@@ -1,6 +1,6 @@
 # Summaries of Financial Machine Learning papers and related papers
 
-- [ ] Deep learning with long short-term memory networks for financial market predictions
+- [x] Deep learning with long short-term memory networks for financial market predictions ([paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652), [code](https://github.com/tqa236/LSTM_algo_trading))
 
 Use LSTM to predict out-of-sample directional movements for the constituent stocks of S&P 500 from 1992 to 2015 from Thomson Reuters. Use Diebold-Mariano test to compare different forecasts for a time series.
 
@@ -9,5 +9,3 @@ According to [this article](http://www.daytradingbias.com/?p=110225), "informati
 - [ ] Practical Deep Reinforcement Learning Approach for Stock Trading
 - [ ] Adversarial Deep Reinforcement Learning in Portfolio Management
 - [ ] Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network
-
-
