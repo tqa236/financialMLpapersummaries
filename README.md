@@ -6,7 +6,7 @@ Use LSTM to predict out-of-sample directional movements for the constituent stoc
 
 According to [this article](http://www.daytradingbias.com/?p=110225), "information on the S&P family of stock market indices are proprietary. That means all kinds of information about the S&P indices are not public information and that such information can only be obtained through various paid services that licensed the information directly from the owner of the S&P indices. The data you get from these paid services in turn bound you to certain limitations in terms of the scope of usage. Hence no one can make public the data they obtained directly from the source or its licensed data providers." The dataset is not free.
 
-- [ ] Factor Modeling for High-dimensional Time Series: Inference for the Number of Factors ([paper](https://projecteuclid.org/euclid.aos/1337268209))
+- [x] Factor Modeling for High-dimensional Time Series: Inference for the Number of Factors ([paper](https://projecteuclid.org/euclid.aos/1337268209))
 
 The authors "deal with the factor modeling for multivariate time series from a dimension-reduction viewpoint."
 
