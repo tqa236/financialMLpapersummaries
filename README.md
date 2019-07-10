@@ -10,7 +10,7 @@ According to [this article](http://www.daytradingbias.com/?p=110225), "informati
 
 The authors "deal with the factor modeling for multivariate time series from a dimension-reduction viewpoint."
 
-- [x] Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks
+- [x] Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks ([paper](https://arxiv.org/abs/1703.07015), [code](https://github.com/laiguokun/LSTNet))
 
 LSTNet uses the Convolution Neural Network (CNN) and the Recurrent Neural Network (RNN) to extract short-term local dependency patterns among variables and to discover long-term patterns for time series trends.
 
