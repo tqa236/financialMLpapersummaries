@@ -10,6 +10,12 @@ According to [this article](http://www.daytradingbias.com/?p=110225), "informati
 
 The authors "deal with the factor modeling for multivariate time series from a dimension-reduction viewpoint."
 
+- [x] Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks
+
+LSTNet uses the Convolution Neural Network (CNN) and the Recurrent Neural Network (RNN) to extract short-term local dependency patterns among variables and to discover long-term patterns for time series trends.
+
+The problem formulation is clear and easy to understand.
+
 - [ ] Practical Deep Reinforcement Learning Approach for Stock Trading
 - [ ] Adversarial Deep Reinforcement Learning in Portfolio Management
 - [ ] Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network
